@@ -55,7 +55,5 @@ main ()
  cout << endl;
  }
 
-
-
 getch ();
 }
